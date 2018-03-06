@@ -1,0 +1,21 @@
+{
+    "name": "jakharbek/yii2-core",
+    "description": "Core",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","core"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jakharbek",
+            "email": "javhar_work@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jakharbek\\core\\": "src"
+        }
+    }
+}
