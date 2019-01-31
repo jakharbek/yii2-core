@@ -1,5 +1,5 @@
 <?php
-namespace jakharbek\posts\behaviors;
+namespace jakharbek\core\behaviors;
 
 /**
  *
